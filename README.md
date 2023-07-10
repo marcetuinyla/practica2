@@ -1,2 +1,1 @@
-# practica2
-sin apoyo
+llegue solo
